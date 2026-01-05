@@ -1,0 +1,9 @@
+html {
+
+    /*background: #f70a8c;
+    background: linear-gradient(135deg, rgba(247, 10, 140, 1) 0%, rgba(250, 10, 178, 1) 0%, rgba(15, 15, 245, 1) 100%);
+*/
+    .carousel-image {
+        height: 350px;
+    }
+}
