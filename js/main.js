@@ -1,0 +1,1 @@
+totalQuantity = JSON.parse(localStorage.getItem("cantidad")) || 0;
